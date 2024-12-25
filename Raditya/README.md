@@ -15,7 +15,7 @@ No more screenshot spamming the video!
 git clone https://github.com/kingofaris/Tutorial-Git
 cd Tutorial-Git/Raditya
 
-pyuic6 -x form.ui -o ui_form.py
+pyside6-uic form.ui -o ui_form.py
 python main.py
 ```
 
